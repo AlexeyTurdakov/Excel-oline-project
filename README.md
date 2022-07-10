@@ -1,1 +1,17 @@
-# MininExcelCourse2
+Webpack (imports/exports)
+	Babel
+	Scss
+	Eslint(google)
+	2 Modes
+		- Dev
+			Dev Server, SourceMaps, Eslint, Not Minified JS & CSS
+		- Prod
+			Minified Code
+Git
+
+	Production
+		2.0.0
+		0 ---------------
+	Development
+		2.0.2
+		1 -----------------
